@@ -7,8 +7,8 @@ import MinTUI from 'mint-ui'
 import "mint-ui/lib/style.css"
 Vue.use(MinTUI)
 
-//引入图标样式文件
-import "@/assets/font/font_test/iconfont.css"
+// //引入图标样式文件
+// import "@/assets/font/font_test/iconfont.css"
 
 
 
